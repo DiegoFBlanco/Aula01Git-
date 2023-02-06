@@ -1,2 +1,8 @@
 git config --global user.name "ArthurDiego"
 git config --global user.email "diego.blanco@etec.sp.gov.br"
+
+git init
+git status
+git add .
+git commit -m "Comentários de Alterações"
+git push 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
